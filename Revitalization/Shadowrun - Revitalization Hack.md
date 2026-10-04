@@ -45,5 +45,3 @@ Starting cyberware removed and `Essence` restored to `6.0` for all `mundane` run
 | **Rianna Heartbane** | Datajack, Smartlink, Wired Reflexes (2)                                          |   0.5   |
 | **Stark**            | CyberEyes, Spurs, Muscle Replacement (1), Dermal Plating (3), Wired Reflexes (2) |   0.1   |
 | **Winston Marrs**    | Hand Razors, Muscle Replacement (1), Wired Reflexes (1)                          |   2.9   |
-
-Original: [GitHub Repository](https://github.com/retroided/shadowrun/)
