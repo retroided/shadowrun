@@ -1,6 +1,6 @@
 Shadowrun Revitalization Hack
 
-In tabletop "Shadowrun" lore, recovering spent "Essence" via "Revitalization" therapy wasn't introduced until "5th Edition" ("Chrome Flesh"), while official "Essence Hole" rules appeared in "3rd Edition". Consequently, the "Sega Genesis" original leaves runners permanently locked into whatever cyberware setup they start with.
+In the tabletop "Shadowrun" lore, removing cyberware initially left behind an "Essence Hole" — a void of spent Essence capacity that could only be refilled with new implants, never restored to your natural biological total. It wasn't until "4th Edition" ("Augmentation") and "5th Edition" ("Chrome Flesh") that biotech clinics introduced "Revitalization" therapy — a costly, month-long cellular treatment capable of slowly regenerating lost "Essence" back to natural meat. Because the *Sega Genesis* original predates these mechanics, it permanently locks runners into whatever cyberware setup they start with.
 
 Unfortunately, both the vanilla game and many ROM hacks saddle recruitable runners with inefficient or flat-out broken cyberware that permanently wastes their "Essence" capacity:
 
@@ -19,11 +19,11 @@ Cons:
 
 Starting cyberware removed and "Essence" restored to `6.0` for:
 
-- Ilene Two Fists
-- Joshua Decker
-- Joshua Samurai
-- Petr Uvehr
-- Phantom
-- Rianna Heartbane
-- Stark
-- Winston Marrs
+- Ilene Two Fists (3.4): Datajack, Hand Razors, Wired Reflexes (1);
+- Joshua (Decker) (5.5): Datajack;
+- Joshua (Samurai) (5.4): Datajack, Hand Razors;
+- Petr Uvehr (5.5): Datajack;
+- Phantom (3.4): Datajack, Hand Razors, Wired Reflexes (1);
+- Rianna Heartbane (0.5): Datajack, Smartlink, Wired Reflexes (2);
+- Stark (0.1): CyberEyes, Spurs, Muscle Replacement (1), Dermal Plating (3), Wired Reflexes (2);
+- Winston Marrs (2.9): Hand Razors, Muscle Replacement (1), Wired Reflexes (1);
