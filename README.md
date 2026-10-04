@@ -1,47 +1,48 @@
-# Shadowrun
+# Shadowrun (Sega Genesis) ROM Hacks
 
-## Revitalization Hack
+A curated collection of ROM hacks, quality-of-life improvements, and documentation for the Sega Genesis version of *Shadowrun* (1994). 🤖
 
-### Overview
+## 🚀 Hacks
 
-In the tabletop *Shadowrun* lore, removing cyberware initially left behind an "Essence Hole" — a void of spent Essence capacity that could only be refilled with new implants, never restored to your
-natural biological total. It wasn't until "4th Edition" ("Augmentation") and "5th Edition" ("Chrome Flesh") that biotech clinics introduced "Revitalization" therapy — a costly, month-long cellular
-treatment capable of slowly regenerating lost `Essence` back to natural meat. Because the *Sega Genesis* original predates these mechanics, it permanently locks runners into whatever cyberware setup
-they start with.
+### 🦾 Revitalization
 
-Unfortunately, both the vanilla game and many ROM hacks saddle recruitable runners with inefficient or flat-out broken cyberware that permanently wastes their `Essence` capacity:
+**"Revitalization"** wipes **all** starting cyberware from **every** `mundane` runner and resets their `Essence` to a clean `6.0`.
 
-- `Hand Razors` & `Spurs`: Useless on non-melee combat oriented runners.
-- `Muscle Replacement`: `Quickness` bonuses in vanilla only affect *movement speed*, not targeting (`Target Number`) or *combat rolls*.
-- `Dermal Plating`: `Body` bonuses in vanilla only apply to raw *defense*, failing to expand *health pool*, improve `Medkit` healing efficiency (which scales every `3` `Body`), or boost *physical
-  magic resistance*.
+**Other places to download:**
 
-Even when bug-fix patches resolve these mechanical issues, runners remain stuck with suboptimal implants - like `Deckers` locked into `Hand Razors`, or `Street Samurai` left with just `0.1` `Essence`,
-forcing them to rely on inferior `Smart Goggles` instead of proper `CyberEyes`.
+- 💾 [Revitalization on RomHacking.Net](https://romhacking.net/hacks/10082/)
+- 💾 [Revitalization on RomHack.Ing](https://romhack.ing/database/content/entry/XpmQnagsTl6iDvL954hf-g/shadowrun-revitalization)
+- 💾 [Revitalization on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-revitalization-sega-genesis-romhack)
 
-**"Revitalization"** wipes **ALL** starting cyberware from **EVERY** `mundane` runner and resets their `Essence` to a clean `6.0`.
+## 🛠️ How to Apply
 
-### Key Trade-offs
+1. Get a clean **Shadowrun (USA)** Sega Genesis ROM (`.md`, `.bin`, `.gen`, `.sgd`).
+2. Download the desired `.bps` or `.ips` patch file.
+3. Use a patching tool to apply the patch to your clean ROM:
+	- 🌐 **Online**
+		- [RomHacking.Net Online Patcher](https://romhacking.net/patch/)
+		- [RomHackPlaza.Org Online Patcher](https://romhackplaza.org/patch)
+	- 🖥️ **Download App**
+		- [Floating IPS (Flips)](https://romhacking.net/utilities/1040/)
+4. Load the patched ROM into your emulator of choice (e.g., RetroArch, BlastEm, Genesis Plus GX).
 
-**Pros:**
+## 📄 File Hashes
 
-- Complete freedom to build and customize every `Street Samurai` and `Decker` exactly as you see fit.
+Ensure your original ROM matches these checksums before applying any patches. 🔍
 
-**Cons:**
+**Check online:**
 
-- Building up runners from scratch requires a significant nuyen investment, making team progression considerably more expensive without money cheats.
+- 🌐 ️[RomHacking.Net Online Hash Checker](https://romhacking.net/hash/)
+- 🌐 ️[RomHack.Ing Online Tools](https://romhack.ing/tools)
+- 🌐 ️[RomHackPlaza.Org Online Hash Checker](https://romhackplaza.org/hash)
 
-### Affected Shadowrunners
+## 🤝 Good ROM
 
-Starting cyberware removed and `Essence` restored to `6.0` for all `mundane` runners:
+- **Format:** `Genesis ROM image (BIN)`
+- **Database:** `No-Intro: Sega - Mega Drive - Genesis (v. 20250305-122836)`
 
-| Shadowrunner         | Vanilla Starting Cyberware                                                       | Essence |
-|:---------------------|----------------------------------------------------------------------------------|:-------:|
-| **Ilene Two Fists**  | Datajack, Hand Razors, Wired Reflexes (1)                                        |   3.4   |
-| **Joshua (Decker)**  | Datajack                                                                         |   5.5   |
-| **Joshua (Samurai)** | Datajack, Hand Razors                                                            |   5.4   |
-| **Petr Uvehr**       | Datajack                                                                         |   5.5   |
-| **Phantom**          | Datajack, Hand Razors, Wired Reflexes (1)                                        |   3.4   |
-| **Rianna Heartbane** | Datajack, Smartlink, Wired Reflexes (2)                                          |   0.5   |
-| **Stark**            | CyberEyes, Spurs, Muscle Replacement (1), Dermal Plating (3), Wired Reflexes (2) |   0.1   |
-| **Winston Marrs**    | Hand Razors, Muscle Replacement (1), Wired Reflexes (1)                          |   2.9   |
+**Verified Good ROM Checksums:**
+
+- 🔑 **CRC32:** `fbb92909`
+- 🔑 **MD5:** `53090BCD67A0B6262F71EF7C5838C02B`
+- 🔑 **SHA-1:** `a06a281d39e845bff446a541b2ff48e1d93143c2`
