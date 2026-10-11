@@ -1,0 +1,42 @@
+# Shadowrun
+
+## Harmless Spell Shards Hack
+
+### Overview
+
+No more *Accidental Magecide*! In the *Sega Genesis* version of *Shadowrun*, several spells feature *Area of Effect* attacks, with spell shards flying outward from the targeted enemy in different
+directions. Their secondary hits also affect unintended targets — including the caster and their own teammates. This creates an unfortunate situation where a runner's offensive magic will hurt or
+affect their own side. A spell intended to eliminate an enemy can instead damage the caster, injure teammates, or inflict unwanted status effects on the party. This hits hard especially if your
+teammates receive more damage than the enemy. As the 16 bit version is not turn-based, that makes whole *Area of Effect* spells unusable at best. Mostly harmful. **"Harmless Spell Shards"** romhacks
+modifies the behavior of area-effect spells to prevent their secondary spell-shard hit anyone but a targeted enemy. Spell shards continue to fly outward from the targeted enemy, retaining the original
+visuals.
+
+### Changes
+
+- **Mana Storm:**
+	- Prevents spell-shard hits from dealing `Health Points` damage to the caster, teammates, and not targeted enemy.
+	- The caster (and *only* caster) may still experience one-second stun *if* caught in *AOE* of spell shards, even when *no actual* `Health Points` are lost.
+	- Pretty balanced in the late game, especially against `Hellhounds`.
+
+- **Hellblast:**
+	- Prevents spell-shard hits from dealing `Health Points` damage to the caster, teammates, and not targeted enemy.
+	- The caster (and *only* caster) may still experience one-second stun *if* caught in *AOE* of spell shards, even when *no actual* `Health Points` are lost.
+	- Kinda balanced – `Hellhounds` still pretty resistant.
+	- Having romhacks that decreases `Mental Drain` makes it pretty *imbalanced*, as *Armor* doesn't help against `Physical Damage Spells` and `Fetish` are kinda inexpensive in late game.
+
+- **Sleep:**
+	- Prevents secondary spell-shard hits from affecting `Mental Points` of the caster, teammates, and not targeted enemy.
+	- Finally, you can *obliterate* these `Hellhounds`.
+	- Kinda balanced. To make it work, *all* teammates should do `Mental Points` damage. Targeting `Mental Points` using `Sleep` while other teammates targeting `Health Points` via firearms totally pointless. Melee is pretty suicidal, having two or three spellcasters in a team also a questionable choice. Especially if you *roleplaying*.
+
+- **Confusion:**
+	- Prevents secondary spell-shard hits from applying their *effects* to the caster, teammates, and not targeted enemy.
+	- *Only, and only* targeted enemy attacks are less likely to hit, may walk in random direction mindlessly, and even attack own teammates occasionally (super rare).
+
+- **Stink:**
+	- Prevents secondary spell-shard hits from applying their *effects* to the caster, teammates, and not targeted enemy.
+	- *Only, and only* targeted enemy will have decreased `Target Number` (*TN*). *Minimal* required numbers for the affected character to successfully hit you are *skyrocketing*. Affects *all* types of actions – unarmed combat, firearm shooting, or spell casting.
+
+**Note:** This patch does not (!) make the spell shards *selectively* affect other enemies while ignoring allies or caster. Secondary spell shards *hits* are suppressed rather than filtered by allegiance. This is the best spell rebalancing so far – other choices to make spells "single target" either move ROM bytes (no compatibility with other hacks, d'oh) or messes with spell effects calculations (another d'oh).
+
+Original: [GitHub Repository](https://github.com/retroided/shadowrun/)
