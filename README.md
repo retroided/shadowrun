@@ -4,6 +4,16 @@ A curated collection of ROM hacks, quality-of-life improvements, and documentati
 
 ## 🚀 Hacks
 
+### 🌠 Harmless Spell Shards
+
+**"Harmless Spell Shards"** romhacks modifies the behavior of area-effect spells to prevent their secondary spell-shard hit anyone but a targeted enemy.
+
+**Other places to download:**
+
+- 💾 [Harmless Spell Shards on RomHacking.Net](https://romhacking.net/hacks/10143/)
+- 💾 [Harmless Spell Shards on RomHack.Ing](https://romhack.ing/database/content/entry/xEq-zD2qQOqNoi_6He7tYQ/shadowrun-harmless-spell-shards)
+- 💾 [Harmless Spell Shards on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-harmless-spell-shards-sega-genesis-romhack)
+
 ### 🦾 Revitalization
 
 **"Revitalization"** wipes **all** starting cyberware from **every** `mundane` runner and resets their `Essence` to a clean `6.0`.
