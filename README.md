@@ -8,21 +8,21 @@ A curated collection of ROM hacks, quality-of-life improvements, and documentati
 
 **"Harmless Spell Shards"** romhacks modifies the behavior of area-effect spells to prevent their secondary spell-shard hit anyone but a targeted enemy.
 
-**Other places to download:**
+Other places:
 
-- 💾 [Harmless Spell Shards on RomHacking.Net](https://romhacking.net/hacks/10143/)
-- 💾 [Harmless Spell Shards on RomHack.Ing](https://romhack.ing/database/content/entry/xEq-zD2qQOqNoi_6He7tYQ/shadowrun-harmless-spell-shards)
-- 💾 [Harmless Spell Shards on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-harmless-spell-shards-sega-genesis-romhack)
+- 🌠 [Harmless Spell Shards on RomHacking.Net](https://romhacking.net/hacks/10143/)
+- 🌠 [Harmless Spell Shards on RomHack.Ing](https://romhack.ing/database/content/entry/xEq-zD2qQOqNoi_6He7tYQ/shadowrun-harmless-spell-shards)
+- 🌠 [Harmless Spell Shards on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-harmless-spell-shards-sega-genesis-romhack)
 
 ### 🦾 Revitalization
 
 **"Revitalization"** wipes **all** starting cyberware from **every** `mundane` runner and resets their `Essence` to a clean `6.0`.
 
-**Other places to download:**
+Other places:
 
-- 💾 [Revitalization on RomHacking.Net](https://romhacking.net/hacks/10082/)
-- 💾 [Revitalization on RomHack.Ing](https://romhack.ing/database/content/entry/XpmQnagsTl6iDvL954hf-g/shadowrun-revitalization)
-- 💾 [Revitalization on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-revitalization-sega-genesis-romhack)
+- 🦾 [Revitalization on RomHacking.Net](https://romhacking.net/hacks/10082/)
+- 🦾 [Revitalization on RomHack.Ing](https://romhack.ing/database/content/entry/XpmQnagsTl6iDvL954hf-g/shadowrun-revitalization)
+- 🦾 [Revitalization on RomHackPlaza.Org](https://romhackplaza.org/romhacks/shadowrun-revitalization-sega-genesis-romhack)
 
 ## 🛠️ How to Apply
 
